@@ -12,8 +12,8 @@
 
 ### Rating
 
-- X amount of swords out of 10 maximum
-- 7 Swords out of 10 :hocho:
+- X amount of :hocho: (Knifes) out of 10 maximum
+- 7 :hocho: out of 10 :hocho:
 
 ## Summary
 
