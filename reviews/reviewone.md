@@ -13,7 +13,7 @@
 ### Rating
 
 - X amount of :hocho: (Knifes) out of 10 maximum
-- 7 :hocho: out of 10 :hocho:
+- 7 :hocho: out of 10
 
 ## Summary
 
