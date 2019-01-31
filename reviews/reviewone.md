@@ -13,7 +13,7 @@
 ### Rating
 
 - X amount of swords out of 10 maximum
-- 7 Swords out of 10
+- 7 Swords out of 10 :hocho:
 
 ## Summary
 
