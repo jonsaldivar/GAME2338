@@ -13,7 +13,7 @@
 ## Rating
 
 - I rate this game from 1 to 10 :izakaya_lantern: (lanterns)
-- This game gets a 9/10 :izakaya_lantern: rating.
+- This game gets 9 :izakaya_lantern: out of 10
 
 ## Summary
 
