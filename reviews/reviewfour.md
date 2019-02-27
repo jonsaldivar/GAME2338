@@ -12,17 +12,14 @@
 
 ### Rating
 - X amount of (EMOJI) out of 10 maximum
--  () out of 10
+- 7 out of 10
 
 ## Summary
-This game is about... this should be at least 3-4 paragraphs summarising the gameplay mechanics of the game. You should be answering the who, what, when, where, why, and how of the game itself.
+The game LIMBO takes place, well in limbo at least that is what can be assumed by the lack of color and hospitality in the surrounding area. LIMBO is a 2D physics based platformer were you take control of a little boy who we can presumed is dead and is searching for his little sister. The gameplay is based on traversing though this dangerous world in the hopes of being reunited with her. The simplicity of the art, a silhouette style with contrasting colors of black and white with soft tonal greys as backgrounds really help let the character and environment pop. 
 
-The game LIMBO takes place, well in limbo at least that is what can be assumed by the lack of color and hospitality in the surronding area. LIMBO is a 2D physics based platformer were you take control of a little boy who we can presummed is dead and is searching for his little sister. The gameplay is based on traversing though this dangoruos world in the hopes of being reunited with her. The simplisity of the art, a siluete style with contrasting colors of black and white with soft tonel greys as backgrounds really help let the character and enviroment pop. 
+One thing you will find yourself doing a lot is dying and surprisingly not always due to the difficultly. The developers put so much care in making each death unique that you might just find yourself curious at times to see how they created the death scenes for each puzzle. There seems to be a big emphasis on death and I think that’s due to the tone of the game there is rotting corpse of children scattered randomly through the world. The gameplay is simple but can be challenging at times  
 
-One thing you will find yourself doing alot is dying and suprisingly not always due to the difficultly. The developers put so much care in making each death uninque that you might just find yourself curious at times to see how they created the death scenes for each puzzle. There seems to be a big emfises on death and I think thats due to the tone of the game there is rottening corpese of children scattered randomly throught the woirld. The gameplay is simple but can be challanging at times  
+The 
 
 ## Final Thoughts
-I like this about the game but didn't like this particular feature. This should be at a minimum of one paragraph.
-
-## Additional Information
-Links to other reviews or other information you used in this review.
+The game is a little short but the challenges really help buffer out the playtime. The simple mechanics and minimalist art style really make the game very approachable for more casual players. The physic based puzzles can be a little frustrating at times but feel very rewarded once you figure them out.
