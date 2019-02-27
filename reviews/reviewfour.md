@@ -11,8 +11,8 @@
 - https://store.steampowered.com/app/48000/LIMBO/
 
 ### Rating
-- X amount of :bust_in_silhouette: (silhouette) out of 10 maximum
-- 7 :bust_in_silhouette: out of 10
+- X amount of :bust_in_silhouette: (silhouettes) out of 10 maximum
+- 7 :bust_in_silhouette:s out of 10
 
 ## Summary
 The game LIMBO takes place, well in limbo at least that is what can be assumed by the lack of color and hospitality in the surrounding area. LIMBO is a 2D physics based platformer were you take control of a little boy who we can presumed is dead and is searching for his little sister. The gameplay is based on traversing though this dangerous world in the hopes of being reunited with her. The simplicity of the art, a silhouette style with contrasting colors of black and white with soft tonal greys as backgrounds really help let the character and environment pop. 
