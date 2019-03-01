@@ -14,7 +14,7 @@
 > _Answer:_ The game doesn’t seem to be balance as there isn’t enough dung around to 
 
 **Question:** Does the timing of this game appear to be about right for this type of game?
-> _Answer:_ For a sim I believe that the enemy shouldn’t be so aggressive.
+> _Answer:_ For a sim I believe that the enemy shouldn’t be so persistent or reoccuring.
 
 **Question:** During gameplay did the mechanics and theme go together and reinforce each other?
 > _Answer:_ Yes, it is more gamified then sim but the reason for dying and the reason for carrying and moving so slow makes since due to the nature of the creature in real life.
