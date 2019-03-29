@@ -14,7 +14,7 @@
 > _Answer:_ yes the game is balanced, it is easy to pick up but hard to master.
 
 **Question:** Does the timing of this game appear to be about right for this type of game?
-> _Answer:_ Yes the game has a slow pace to it but has a fastforward button to speed threw levels.
+> _Answer:_ Yes the game has a slow pace to it but has a fast forward button to speed threw levels.
 
 **Question:** During gameplay did the mechanics and theme go together and reinforce each other?
 > _Answer:_ Yes the mechanics were very well thought out and really help the game stay cohesive
