@@ -8,7 +8,7 @@
 
 ### Game Title
 
--Super Mario Bros
+- Super Mario Bros
 - https://supermariobros.io/
 
 ### Rating
