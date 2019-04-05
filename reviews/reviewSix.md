@@ -25,9 +25,8 @@ Super Mario bros is a 2D side scrolling platformer were you run to the right of 
 The game allows you one hit before its game over, but one mechanic is the mushroom power up which makes you larger which allows you to get hit once more before dying. Overall you start off the game with three lives but you can earn more buy collecting 100 coins or finding a secret one up mushroom. A flashing flower gives Mario the ability to throw fireballs and as well as a sparkling star which grants you invincibility.
 
 ## Final Thoughts
-I like this about the game but didn't like this particular feature. This should be at a minimum of one paragraph.
 
-Overall the game is fun it can be challenging at times but to simplicity of the levels, controls and easy to understand mechanics don’t let a section stay difficult for long. The easy to pick up accessibility make it an easy game to enjoy for anyone with iconic music and unforgettable art.
+Overall the game is fun it can be challenging at times but to simplicity of the levels, controls and easy to understand mechanics don’t let a section stay difficult for long. The easy to pick up accessibility make it an easy game to enjoy for anyone with iconic music and unforgettable art. What I didnt like was that the boss fights seem repetitve.  
 
 ## Additional Information
 
