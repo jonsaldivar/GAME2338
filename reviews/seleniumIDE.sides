@@ -1,0 +1,432 @@
+{
+  "id": "33655627-4b46-4517-aa27-f02601a7ba45",
+  "version": "2.0",
+  "name": "Xboxachievments.com test",
+  "url": "https://www.xboxachievements.com",
+  "tests": [{
+    "id": "1b1fabc4-0e22-4af7-8aa0-4d2dad98e693",
+    "name": "Untitled",
+    "commands": [{
+      "id": "8f470384-d115-4ab6-984a-dc64abce0a91",
+      "comment": "",
+      "command": "open",
+      "target": "/",
+      "targets": [],
+      "value": ""
+    }, {
+      "id": "17263bd9-0f0a-416b-9fd6-8b177a137931",
+      "comment": "",
+      "command": "setWindowSize",
+      "target": "978x1040",
+      "targets": [],
+      "value": ""
+    }, {
+      "id": "0d3374d4-0c44-4b40-b1f1-b84ceefde540",
+      "comment": "",
+      "command": "click",
+      "target": "css=.divtext tr:nth-child(2) .newsTitle",
+      "targets": [
+        ["css=.divtext tr:nth-child(2) .newsTitle", "css:finder"],
+        ["xpath=//div[@id='col_l']/div[2]/div[2]/div/table/tbody/tr[2]/td[2]/div", "xpath:idRelative"],
+        ["xpath=//tr[2]/td[2]/div", "xpath:position"]
+      ],
+      "value": ""
+    }, {
+      "id": "72b8a383-82b5-4290-8881-d4b41888b01b",
+      "comment": "",
+      "command": "click",
+      "target": "linkText=Game Added: Final Fantasy XII: The Zodiac Age",
+      "targets": [
+        ["linkText=Game Added: Final Fantasy XII: The Zodiac Age", "linkText"],
+        ["css=tr:nth-child(4) > td:nth-child(1) > .newsTitle > a", "css:finder"],
+        ["xpath=//a[contains(text(),'Game Added: Final Fantasy XII: The Zodiac Age')]", "xpath:link"],
+        ["xpath=//div[@id='col_l']/div[3]/div[2]/div/table/tbody/tr[4]/td/div/a", "xpath:idRelative"],
+        ["xpath=//a[contains(@href, '/news-6935-Game-Added--Final-Fantasy-XII--The-Zodiac-Age.html')]", "xpath:href"],
+        ["xpath=//div[3]/div[2]/div/table/tbody/tr[4]/td/div/a", "xpath:position"],
+        ["xpath=//a[contains(.,'Game Added: Final Fantasy XII: The Zodiac Age')]", "xpath:innerText"]
+      ],
+      "value": ""
+    }, {
+      "id": "c9d402b4-7a38-430b-b724-56f30b181c45",
+      "comment": "",
+      "command": "runScript",
+      "target": "window.scrollTo(0,13)",
+      "targets": [],
+      "value": ""
+    }, {
+      "id": "4b2f1de6-0cd9-4a75-a446-aad03d7a990c",
+      "comment": "",
+      "command": "click",
+      "target": "linkText=Overview",
+      "targets": [
+        ["linkText=Overview", "linkText"],
+        ["css=.link_w2:nth-child(1)", "css:finder"],
+        ["xpath=//a[contains(text(),'Overview')]", "xpath:link"],
+        ["xpath=//div[@id='col_l']/div[2]/div/a", "xpath:idRelative"],
+        ["xpath=//a[contains(@href, '/game/final-fantasy-12/overview/')]", "xpath:href"],
+        ["xpath=//div[4]/div[3]/div[2]/div/a", "xpath:position"],
+        ["xpath=//a[contains(.,'Overview')]", "xpath:innerText"]
+      ],
+      "value": ""
+    }, {
+      "id": "74018044-8037-4d56-90b0-a12d071654aa",
+      "comment": "",
+      "command": "click",
+      "target": "id=head_click",
+      "targets": [
+        ["id=head_click", "id"],
+        ["css=#head_click", "css:finder"],
+        ["xpath=//div[@id='head_click']", "xpath:attributes"],
+        ["xpath=//div[@id='head_main']/a/div", "xpath:idRelative"],
+        ["xpath=//a/div", "xpath:position"]
+      ],
+      "value": ""
+    }, {
+      "id": "2d4d98bf-232c-41e8-84c3-a95feeaf0330",
+      "comment": "",
+      "command": "click",
+      "target": "linkText=Game Added: Final Fantasy XII: The Zodiac Age",
+      "targets": [
+        ["linkText=Game Added: Final Fantasy XII: The Zodiac Age", "linkText"],
+        ["css=tr:nth-child(4) > td:nth-child(1) > .newsTitle > a", "css:finder"],
+        ["xpath=//a[contains(text(),'Game Added: Final Fantasy XII: The Zodiac Age')]", "xpath:link"],
+        ["xpath=//div[@id='col_l']/div[3]/div[2]/div/table/tbody/tr[4]/td/div/a", "xpath:idRelative"],
+        ["xpath=//a[contains(@href, '/news-6935-Game-Added--Final-Fantasy-XII--The-Zodiac-Age.html')]", "xpath:href"],
+        ["xpath=//div[3]/div[2]/div/table/tbody/tr[4]/td/div/a", "xpath:position"],
+        ["xpath=//a[contains(.,'Game Added: Final Fantasy XII: The Zodiac Age')]", "xpath:innerText"]
+      ],
+      "value": ""
+    }, {
+      "id": "19fc2f26-6989-4966-b427-ac433705e171",
+      "comment": "",
+      "command": "runScript",
+      "target": "window.scrollTo(0,0)",
+      "targets": [],
+      "value": ""
+    }, {
+      "id": "4dc9b427-894c-4a8d-b165-18ea5e5e968b",
+      "comment": "",
+      "command": "runScript",
+      "target": "window.scrollTo(0,600)",
+      "targets": [],
+      "value": ""
+    }, {
+      "id": "5a7c3477-d5bd-4244-af7f-f6c1bef00ff7",
+      "comment": "",
+      "command": "click",
+      "target": "linkText=Home",
+      "targets": [
+        ["linkText=Home", "linkText"],
+        ["css=#menu > .menLink:nth-child(1)", "css:finder"],
+        ["xpath=//a[contains(text(),'Home')]", "xpath:link"],
+        ["xpath=//div[@id='menu']/a", "xpath:idRelative"],
+        ["xpath=(//a[contains(@href, '/')])[5]", "xpath:href"],
+        ["xpath=//div[2]/a", "xpath:position"],
+        ["xpath=//a[contains(.,'Home')]", "xpath:innerText"]
+      ],
+      "value": ""
+    }, {
+      "id": "c56da1b3-9bf7-4037-a920-748634cd52b8",
+      "comment": "",
+      "command": "click",
+      "target": "linkText=Dark Fantasy Action RPG 'Warlander' is Coming to Xbox One",
+      "targets": [
+        ["linkText=Dark Fantasy Action RPG 'Warlander' is Coming to Xbox One", "linkText"],
+        ["css=.divtext tr:nth-child(2) .newsTitle > a", "css:finder"],
+        ["xpath=//div[@id='col_l']/div[2]/div[2]/div/table/tbody/tr[2]/td[2]/div/a", "xpath:idRelative"],
+        ["xpath=(//a[contains(@href, '/news/news-32679-Dark-Fantasy-Action-RPG--Warlander--is-Coming-to-Xbox-One.html')])[2]", "xpath:href"],
+        ["xpath=//tr[2]/td[2]/div/a", "xpath:position"]
+      ],
+      "value": ""
+    }, {
+      "id": "e5445765-8f80-4b8b-91f2-9b0cdadf78b7",
+      "comment": "",
+      "command": "runScript",
+      "target": "window.scrollTo(0,800)",
+      "targets": [],
+      "value": ""
+    }, {
+      "id": "62450983-e632-4b7e-825b-b8ca1dbdf78d",
+      "comment": "",
+      "command": "selectFrame",
+      "target": "index=0",
+      "targets": [
+        ["index=0"]
+      ],
+      "value": ""
+    }, {
+      "id": "dd7294d6-d28c-40f4-8221-0ce172ed70da",
+      "comment": "",
+      "command": "click",
+      "target": "css=.ytp-large-play-button",
+      "targets": [
+        ["css=.ytp-large-play-button", "css:finder"],
+        ["xpath=//div[@id='player_uid_696158619_1']/div[4]/button", "xpath:idRelative"],
+        ["xpath=//div[4]/button", "xpath:position"]
+      ],
+      "value": ""
+    }, {
+      "id": "b107d34a-4d29-4d80-8357-c4b06f83661c",
+      "comment": "",
+      "command": "selectFrame",
+      "target": "relative=parent",
+      "targets": [
+        ["relative=parent"]
+      ],
+      "value": ""
+    }, {
+      "id": "3edebda7-1b2b-4416-8548-e61a6aee0310",
+      "comment": "",
+      "command": "click",
+      "target": "linkText=Overview",
+      "targets": [
+        ["linkText=Overview", "linkText"],
+        ["css=.link_w2:nth-child(1)", "css:finder"],
+        ["xpath=//a[contains(text(),'Overview')]", "xpath:link"],
+        ["xpath=//div[@id='col_l']/div[2]/div/a", "xpath:idRelative"],
+        ["xpath=//a[contains(@href, '/game/warlander/overview/')]", "xpath:href"],
+        ["xpath=//div[4]/div[3]/div[2]/div/a", "xpath:position"],
+        ["xpath=//a[contains(.,'Overview')]", "xpath:innerText"]
+      ],
+      "value": ""
+    }, {
+      "id": "032e69e7-aa0f-4714-9208-4e7352840eca",
+      "comment": "",
+      "command": "runScript",
+      "target": "window.scrollTo(0,699)",
+      "targets": [],
+      "value": ""
+    }, {
+      "id": "892e2cf4-eeeb-43ac-b7d9-69349c03008d",
+      "comment": "",
+      "command": "runScript",
+      "target": "window.scrollTo(0,442)",
+      "targets": [],
+      "value": ""
+    }, {
+      "id": "c0cb1473-fb8a-4c10-b040-e376fc60cd00",
+      "comment": "",
+      "command": "click",
+      "target": "linkText=Home",
+      "targets": [
+        ["linkText=Home", "linkText"],
+        ["css=#menu > .menLink:nth-child(1)", "css:finder"],
+        ["xpath=//a[contains(text(),'Home')]", "xpath:link"],
+        ["xpath=//div[@id='menu']/a", "xpath:idRelative"],
+        ["xpath=(//a[contains(@href, '/')])[5]", "xpath:href"],
+        ["xpath=//div[2]/a", "xpath:position"],
+        ["xpath=//a[contains(.,'Home')]", "xpath:innerText"]
+      ],
+      "value": ""
+    }, {
+      "id": "3d4594bc-7d47-4083-a072-51b787856bff",
+      "comment": "",
+      "command": "runScript",
+      "target": "window.scrollTo(0,1515)",
+      "targets": [],
+      "value": ""
+    }, {
+      "id": "611643ca-147b-4bac-88a4-f948064b16a2",
+      "comment": "",
+      "command": "click",
+      "target": "linkText=Surviving Mars 'Green Planet' Expansion and 'Project Laika' DLC Dated For May",
+      "targets": [
+        ["linkText=Surviving Mars 'Green Planet' Expansion and 'Project Laika' DLC Dated For May", "linkText"],
+        ["css=tr:nth-child(9) .newsTitle > a", "css:finder"],
+        ["xpath=//div[@id='col_l']/div[2]/div[2]/div/table/tbody/tr[9]/td[2]/div/a", "xpath:idRelative"],
+        ["xpath=(//a[contains(@href, '/news/news-32672-Surviving-Mars--Green-Planet--Expansion-and--Project-Laika--DLC-Dated-For-May.html')])[2]", "xpath:href"],
+        ["xpath=//tr[9]/td[2]/div/a", "xpath:position"]
+      ],
+      "value": ""
+    }, {
+      "id": "21df8edb-4351-4913-ad4b-d9f3b6729fe3",
+      "comment": "",
+      "command": "runScript",
+      "target": "window.scrollTo(0,750)",
+      "targets": [],
+      "value": ""
+    }, {
+      "id": "760d65f0-6726-47ac-965c-08dc1b799541",
+      "comment": "",
+      "command": "runScript",
+      "target": "window.scrollTo(0,2550)",
+      "targets": [],
+      "value": ""
+    }, {
+      "id": "61b11009-e270-48d3-90fe-8fe153e285d9",
+      "comment": "",
+      "command": "runScript",
+      "target": "window.scrollTo(0,1661)",
+      "targets": [],
+      "value": ""
+    }, {
+      "id": "7a3be8de-ef2e-4fef-b54f-cb1bd3621ec7",
+      "comment": "",
+      "command": "runScript",
+      "target": "window.scrollTo(0,1)",
+      "targets": [],
+      "value": ""
+    }, {
+      "id": "c03ebdf8-39fa-43e9-b4a3-5b303c40aa23",
+      "comment": "",
+      "command": "selectFrame",
+      "target": "index=0",
+      "targets": [
+        ["index=0"]
+      ],
+      "value": ""
+    }, {
+      "id": "791c4abe-9364-4083-93da-9782b2b42046",
+      "comment": "",
+      "command": "click",
+      "target": "css=.ytp-large-play-button",
+      "targets": [
+        ["css=.ytp-large-play-button", "css:finder"],
+        ["xpath=//div[@id='player_uid_428477818_1']/div[4]/button", "xpath:idRelative"],
+        ["xpath=//div[4]/button", "xpath:position"]
+      ],
+      "value": ""
+    }, {
+      "id": "5944d16b-3181-4ab4-9469-36689eb0ab7a",
+      "comment": "",
+      "command": "selectFrame",
+      "target": "relative=parent",
+      "targets": [
+        ["relative=parent"]
+      ],
+      "value": ""
+    }, {
+      "id": "dfd7d429-49e5-4c4f-8d03-259eda0c826b",
+      "comment": "",
+      "command": "click",
+      "target": "linkText=Home",
+      "targets": [
+        ["linkText=Home", "linkText"],
+        ["css=#menu > .menLink:nth-child(1)", "css:finder"],
+        ["xpath=//a[contains(text(),'Home')]", "xpath:link"],
+        ["xpath=//div[@id='menu']/a", "xpath:idRelative"],
+        ["xpath=(//a[contains(@href, '/')])[5]", "xpath:href"],
+        ["xpath=//div[2]/a", "xpath:position"],
+        ["xpath=//a[contains(.,'Home')]", "xpath:innerText"]
+      ],
+      "value": ""
+    }, {
+      "id": "795141ff-ec02-42b3-bf33-2260197e8f02",
+      "comment": "",
+      "command": "click",
+      "target": "linkText=RAGE 2 Will Address the Criticisms of Rage By Delivering \"A Better Ending\" - Interview",
+      "targets": [
+        ["linkText=RAGE 2 Will Address the Criticisms of Rage By Delivering \"A Better Ending\" - Interview", "linkText"],
+        ["css=tr:nth-child(1) > td > .newsTitle > .f_link", "css:finder"],
+        ["xpath=//a[contains(text(),'RAGE 2 Will Address the Criticisms of Rage By Delivering \"A Better Ending\" - Interview')]", "xpath:link"],
+        ["xpath=//div[@id='col_l']/table/tbody/tr/td[2]/div[5]/table/tbody/tr/td[2]/div/a", "xpath:idRelative"],
+        ["xpath=(//a[contains(@href, '/news/news-32244-RAGE-2-Will-Address-the-Criticisms-of-Rage-By-Delivering--A-Better-Ending----Interview.html')])[2]", "xpath:href"],
+        ["xpath=//div[5]/table/tbody/tr/td[2]/div/a", "xpath:position"],
+        ["xpath=//a[contains(.,'RAGE 2 Will Address the Criticisms of Rage By Delivering \"A Better Ending\" - Interview')]", "xpath:innerText"]
+      ],
+      "value": ""
+    }, {
+      "id": "d435881f-caa9-4a1b-acae-8a3474d90ee7",
+      "comment": "",
+      "command": "runScript",
+      "target": "window.scrollTo(0,3900)",
+      "targets": [],
+      "value": ""
+    }, {
+      "id": "c607388c-bee7-4a5e-a41a-706fc49cea41",
+      "comment": "",
+      "command": "click",
+      "target": "linkText=Home",
+      "targets": [
+        ["linkText=Home", "linkText"],
+        ["css=#menu > .menLink:nth-child(1)", "css:finder"],
+        ["xpath=//a[contains(text(),'Home')]", "xpath:link"],
+        ["xpath=//div[@id='menu']/a", "xpath:idRelative"],
+        ["xpath=(//a[contains(@href, '/')])[5]", "xpath:href"],
+        ["xpath=//div[2]/a", "xpath:position"],
+        ["xpath=//a[contains(.,'Home')]", "xpath:innerText"]
+      ],
+      "value": ""
+    }, {
+      "id": "2944a85f-902e-45a5-836d-2b04cedae57a",
+      "comment": "",
+      "command": "runScript",
+      "target": "window.scrollTo(0,851)",
+      "targets": [],
+      "value": ""
+    }, {
+      "id": "26f9db0f-0c45-4977-9f47-371692a9a6a1",
+      "comment": "",
+      "command": "runScript",
+      "target": "window.scrollTo(0,4150)",
+      "targets": [],
+      "value": ""
+    }, {
+      "id": "49c07f64-232a-45cd-a4c1-595c815ad27f",
+      "comment": "",
+      "command": "click",
+      "target": "css=tr:nth-child(6) a > b",
+      "targets": [
+        ["css=tr:nth-child(6) a > b", "css:finder"],
+        ["xpath=//div[@id='cont']/table/tbody/tr/td[2]/div[2]/table/tbody/tr[6]/td/a/b", "xpath:idRelative"],
+        ["xpath=//tr[6]/td/a/b", "xpath:position"],
+        ["xpath=//b[contains(.,'Ninja Gaiden 2 Comparison - Xbox 360 vs. Xbox One X')]", "xpath:innerText"]
+      ],
+      "value": ""
+    }, {
+      "id": "50117e6c-2a00-44e3-bff3-75f672ed5dcc",
+      "comment": "",
+      "command": "selectFrame",
+      "target": "index=0",
+      "targets": [
+        ["index=0"]
+      ],
+      "value": ""
+    }, {
+      "id": "9d9de34b-11c6-4589-a712-07398df8fcd3",
+      "comment": "",
+      "command": "click",
+      "target": "css=.ytp-large-play-button",
+      "targets": [
+        ["css=.ytp-large-play-button", "css:finder"],
+        ["xpath=//div[@id='player_uid_232427940_1']/div[4]/button", "xpath:idRelative"],
+        ["xpath=//div[4]/button", "xpath:position"]
+      ],
+      "value": ""
+    }, {
+      "id": "31068086-d77d-477d-b321-d8b7c5bc9db1",
+      "comment": "",
+      "command": "selectFrame",
+      "target": "relative=parent",
+      "targets": [
+        ["relative=parent"]
+      ],
+      "value": ""
+    }, {
+      "id": "1a45ae0b-18eb-4b45-b073-c50711604aa8",
+      "comment": "",
+      "command": "click",
+      "target": "linkText=Home",
+      "targets": [
+        ["linkText=Home", "linkText"],
+        ["css=#menu > .menLink:nth-child(1)", "css:finder"],
+        ["xpath=//a[contains(text(),'Home')]", "xpath:link"],
+        ["xpath=//div[@id='menu']/a", "xpath:idRelative"],
+        ["xpath=(//a[contains(@href, '/')])[5]", "xpath:href"],
+        ["xpath=//div[2]/a", "xpath:position"],
+        ["xpath=//a[contains(.,'Home')]", "xpath:innerText"]
+      ],
+      "value": ""
+    }]
+  }],
+  "suites": [{
+    "id": "2d7bde59-bfa0-4841-9910-0a2faa1c0b83",
+    "name": "Default Suite",
+    "persistSession": false,
+    "parallel": false,
+    "timeout": 300,
+    "tests": ["1b1fabc4-0e22-4af7-8aa0-4d2dad98e693"]
+  }],
+  "urls": ["https://www.xboxachievements.com/"],
+  "plugins": []
+}
